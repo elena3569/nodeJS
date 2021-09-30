@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "les2.js",
+  "dependencies": {
+    "color": "^4.0.1",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "task": "node les2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elena3569/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elena3569/nodeJS/issues"
+  },
+  "homepage": "https://github.com/elena3569/nodeJS#readme"
+}
