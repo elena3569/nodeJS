@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "les3.js",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "keypress": "^0.2.1"
+  },
   "devDependencies": {},
   "scripts": {
     "task": "node les3",
