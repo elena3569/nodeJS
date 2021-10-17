@@ -4,6 +4,7 @@
   "description": "",
   "main": "les3.js",
   "dependencies": {
+    "history": "^5.0.1",
     "inquirer": "^8.2.0",
     "keypress": "^0.2.1"
   },
