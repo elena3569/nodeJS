@@ -2,9 +2,14 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "lesson1.js",
+  "main": "les3.js",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "task": "node lesson1 24 28",
+    "task": "node les3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/elena3569/nodeJS/issues"
   },
-  "homepage": "https://github.com/elena3569/nodeJS#readme",
-  "dependencies": {
-    "colors": "^1.4.0"
-  }
+  "homepage": "https://github.com/elena3569/nodeJS#readme"
 }
